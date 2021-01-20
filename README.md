@@ -18,7 +18,7 @@ Hi, I'm Huzaifa Shaikh, a passionate self-taught frontEnd web developer from Ind
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 💬 Ask me about anything [here](https://github.com/huzaifa61/huzaifa61/issues)
 
 **Languages and Tools:**  
 
