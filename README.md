@@ -1,12 +1,12 @@
 ### Hi there, I'm [Huzaifa Shaikh!](http://shaikhhuzaifa.000webhostapp.com/) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
+<a href="https://codesandbox.io/u/huzaifa61">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/iamhuzaifa_sk">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/exyJFPrv">
   <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
@@ -36,7 +36,7 @@ Hi, I'm Huzaifa Shaikh, a passionate self-taught frontEnd web developer from Ind
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
