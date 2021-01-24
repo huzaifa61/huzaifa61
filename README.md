@@ -53,7 +53,4 @@ Hi, I'm Huzaifa Shaikh, a passionate self-taught frontEnd web developer from Ind
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.huzaifa61.vercel.app/api/pin/?username=huzaifa61&repo=github-readme-stats&theme=material-palenight" />
 </a>    
-<a href="http://shaikhhuzaifa.000webhostapp.com/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.huzaifa61.vercel.app/api/pin/?username=huzaifa61&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>"# huzaifa61" 
+
