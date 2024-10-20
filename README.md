@@ -68,6 +68,6 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 - **GitHub**: [@huzaifa61](https://github.com/huzaifa61)
 - **LinkedIn**: [Mohammed Huzaifa Shaikh](https://www.linkedin.com/in/mohammed-huzaifa-shaikh/)
-- **Email**: [huzaifashaikh@example.com](mailto:huzaifashaikh@example.com)
+- **Email**: [huzaifashaikh@example.com](mailto:shaikhhuzaifa61@gmail.com)
 
 Feel free to reach out for collaboration or just to chat about tech!
