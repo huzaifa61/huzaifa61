@@ -1,8 +1,8 @@
 # Hi, I'm Huzaifa Shaikh 👋 
 
-### 🚀 Full Stack Developer | GCP Data Engineer | 3+ Years Experience
+### 🚀 Full Stack Developer | iOS & Android Developer | GCP Data Engineer | 3+ Years Experience
 
-Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GCP) Data Engineer** with 3+ years of experience in the fintech domain. I specialize in **Java, Spring Boot, Microservices, LLD, Distributed Systems**, and **Data Engineering** with a focus on building scalable applications and optimizing cloud-based data pipelines.
+Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GCP) Data Engineer** with 3+ years of experience in the fintech domain. I specialize in **Java, Spring Boot, Microservices, LLD, Distributed Systems**, **iOS & Android Development**, and **Data Engineering**, focusing on building scalable applications and cloud-based data pipelines.
 
 ---
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 - **Languages**: Java, JavaScript, Python
 - **Backend**: Spring Boot, Microservices Architecture, REST APIs
 - **Frontend**: React Native, React
-- **Mobile Development**: Android, iOS, React Native
+- **Mobile Development**: iOS (Swift), Android (Kotlin), React Native
 - **Databases**: MySQL, PostgreSQL, MongoDB, BigQuery
 - **Cloud**: Google Cloud Platform (GCP), AWS
 - **Data Engineering**: ETL Pipelines, BigQuery, Kafka
@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 - 3+ Years of Fintech Experience: Building scalable and secure financial solutions.
 - Google Cloud Certified: GCP Data Engineer & Associate Cloud Engineer.
-- Cloud Data Engineering: Experience optimizing and maintaining data pipelines using GCP.
+- iOS & Android Development: Experience developing cross-platform and native mobile apps.
 - Microservices Champion: Designed robust microservices architectures.
 
 ---
@@ -59,8 +59,8 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 ## 💡 What I'm Working On
 
+- iOS & Android Development: Developing cross-platform mobile applications from scratch.
 - GCP Data Engineering: Expanding my expertise in building efficient ETL pipelines and distributed systems.
-- Open Source Contributions: Actively contributing to fintech and cloud engineering projects.
 
 ---
 
@@ -68,6 +68,6 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 - **GitHub**: [@huzaifa61](https://github.com/huzaifa61)
 - **LinkedIn**: [Mohammed Huzaifa Shaikh](https://www.linkedin.com/in/mohammed-huzaifa-shaikh/)
-- **Email**: [huzaifashaikh@example.com](mailto:shaikhhuzaifa61@gmail.com)
+- **Email**: [shaikhhuzaifa61@gmail.com](mailto:shaikhhuzaifa61@gmail.com)
 
 Feel free to reach out for collaboration or just to chat about tech!
