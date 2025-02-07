@@ -31,29 +31,30 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 ## 📂 Projects
 
-### 1. [BLOOD-DONOR-SYSTEM-UPDATED](https://github.com/huzaifa61/BLOOD-DONOR-SYSTEM-UPDATED)
+### 1. [Linkedin App](https://github.com/huzaifa61/LinkedIn-App)
+- **Description**: A LinkedIn-like application designed to connect professionals and facilitate networking.
+
+### 2. [Instagram App](https://clone-19351.firebaseapp.com/](https://instagram-clone-b1941.firebaseapp.com)
+- **Description**: A instagram clone for learning React.
+
+### 3. [Amazon App](https://clone-19351.firebaseapp.com/)
+- **Description**: A instagram clone for learning React.
+
+### 4. [BLOOD-DONOR-SYSTEM-UPDATED](https://github.com/huzaifa61/BLOOD-DONOR-SYSTEM-UPDATED)
 - **Description**: A system to manage and streamline the blood donation process, improving coordination between donors and healthcare institutions.
 
-### 2. [creditscore](https://github.com/huzaifa61/creditscore)
+### 5. [creditscore](https://github.com/huzaifa61/creditscore)
 - **Description**: A system to evaluate and monitor credit scores using financial data and machine learning algorithms.
 
-### 3. [Video-Chat](https://github.com/huzaifa61/Video-Chat)
-- **Description**: A real-time video chat application for seamless communication over the web.
-
-### 4. [GYM_ECOMMERCE](https://github.com/huzaifa61/GYM_ECOMMERCE)
-- **Description**: An e-commerce website for selling gym equipment online, featuring a user-friendly interface and secure payment gateways.
-
-### 5. [wc](https://github.com/huzaifa61/wc)
+### 6. [wc](https://github.com/huzaifa61/wc)
 - **Description**: A weather application that fetches real-time weather data for various locations.
 
-### 6. [quiz-app](https://github.com/huzaifa61/quiz-app)
+### 7. [quiz-app](https://github.com/huzaifa61/quiz-app)
 - **Description**: A web-based quiz application with multiple categories and real-time score updates.
 
-### 7. [recipe_maker](https://github.com/huzaifa61/recipe_maker)
+### 8. [recipe_maker](https://github.com/huzaifa61/recipe_maker)
 - **Description**: A recipe management application that allows users to create, edit, and share recipes easily.
 
-### 8. [LinkedIn-App](https://github.com/huzaifa61/LinkedIn-App)
-- **Description**: A LinkedIn-like application designed to connect professionals and facilitate networking.
 
 ---
 
