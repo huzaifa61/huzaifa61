@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 ### 1. [Linkedin App](https://github.com/huzaifa61/LinkedIn-App)
 - **Description**: A LinkedIn-like application designed to connect professionals and facilitate networking.
 
-### 2. [Instagram App](https://clone-19351.firebaseapp.com/](https://instagram-clone-b1941.firebaseapp.com)
+### 2. [Instagram App](https://instagram-clone-b1941.firebaseapp.com)
 - **Description**: A instagram clone for learning React.
 
 ### 3. [Amazon App](https://clone-19351.firebaseapp.com/)
