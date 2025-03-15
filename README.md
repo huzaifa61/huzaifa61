@@ -40,19 +40,19 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 ### 3. [Amazon App](https://clone-19351.firebaseapp.com/)
 - **Description**: A instagram clone for learning React.
 
-### 4. [BLOOD-DONOR-SYSTEM-UPDATED](https://github.com/huzaifa61/BLOOD-DONOR-SYSTEM-UPDATED)
+### 4. [Blood Donor System](https://github.com/huzaifa61/BLOOD-DONOR-SYSTEM-UPDATED)
 - **Description**: A system to manage and streamline the blood donation process, improving coordination between donors and healthcare institutions.
 
-### 5. [creditscore](https://github.com/huzaifa61/creditscore)
+### 5. [Credit Score](https://github.com/huzaifa61/creditscore)
 - **Description**: A system to evaluate and monitor credit scores using financial data and machine learning algorithms.
 
-### 6. [wc](https://github.com/huzaifa61/wc)
+### 6. [Weather Application](https://github.com/huzaifa61/wc)
 - **Description**: A weather application that fetches real-time weather data for various locations.
 
-### 7. [quiz-app](https://github.com/huzaifa61/quiz-app)
+### 7. [Quiz App](https://github.com/huzaifa61/quiz-app)
 - **Description**: A web-based quiz application with multiple categories and real-time score updates.
 
-### 8. [recipe_maker](https://github.com/huzaifa61/recipe_maker)
+### 8. [Recipe Maker](https://github.com/huzaifa61/recipe_maker)
 - **Description**: A recipe management application that allows users to create, edit, and share recipes easily. 
 
 ### 9. [Linkedin App](https://github.com/huzaifa61/LinkedIn-App)
