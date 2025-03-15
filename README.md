@@ -53,9 +53,10 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 - **Description**: A web-based quiz application with multiple categories and real-time score updates.
 
 ### 8. [recipe_maker](https://github.com/huzaifa61/recipe_maker)
-- **Description**: A recipe management application that allows users to create, edit, and share recipes easily.
-
-
+- **Description**: A recipe management application that allows users to create, edit, and share recipes easily. 
+  
+### 9. [Design Pattern & LLD Repository](https://github.com/huzaifa61/DESIGN-PATTERN))
+- **Description**: Some of the common Design Patterns & LLD Problems and i have added in the repository.
 ---
 
 ## 💡 What I'm Working On
