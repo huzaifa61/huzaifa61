@@ -22,7 +22,7 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 ## 🏆 Achievements
 
-- 3+ Years of Fintech Experience: Building scalable and secure financial solutions.  
+- 5+ Years of Fintech Experience: Building scalable and secure financial solutions.  
 - Google Cloud Certified: GCP Data Engineer & Associate Cloud Engineer.  
 - iOS & Android Development: Experience developing cross-platform and native mobile apps.  
 - Microservices Champion: Designed robust microservices architectures.  
