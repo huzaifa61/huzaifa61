@@ -1,6 +1,6 @@
 # Hi, I'm Huzaifa Shaikh 👋 
 
-### 🚀 Full Stack Developer | iOS & Android Developer | GCP Data Engineer | 7+ Years Experience
+### 🚀 Full Stack Developer | iOS & Android Developer (React Native) | GCP Data Engineer | Java | Python | 7+ Years Experience
 
 Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GCP) Data Engineer** with 3+ years of experience in the fintech domain. I specialize in **Java, Spring Boot, Microservices, LLD, Distributed Systems**, **iOS & Android Development**, and **Data Engineering**, focusing on building scalable applications and cloud-based data pipelines.
 
