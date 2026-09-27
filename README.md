@@ -70,8 +70,7 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 ## 📫 Let's Connect!
 
 - **GitHub**: [@huzaifa61](https://github.com/huzaifa61)  
-- **LinkedIn**: [Mohammed Huzaifa Shaikh](https://www.linkedin.com/in/mohammed-huzaifa-shaikh/)  
-- **Email**: [shaikhhuzaifa61@gmail.com](mailto:shaikhhuzaifa61@gmail.com)  
+- **Email**: [work.coretech@gmail.com](mailto:work.coretech@gmail.com)  
 - **Contact**: [+91 8097903835](tel:+918097903835)
 - **My Website**: [https://huzaifa-shaikh-portfolio.vercel.app/](https://huzaifa-shaikh-portfolio.vercel.app/)
 
