@@ -71,7 +71,6 @@ Welcome to my GitHub! I'm a Full Stack Developer and **Google Cloud Platform (GC
 
 - **GitHub**: [@huzaifa61](https://github.com/huzaifa61)  
 - **Email**: [work.coretech@gmail.com](mailto:work.coretech@gmail.com)  
-- **Contact**: [+91 8097903835](tel:+918097903835)
 - **My Website**: [https://huzaifa-shaikh-portfolio.vercel.app/](https://huzaifa-shaikh-portfolio.vercel.app/)
 
 
